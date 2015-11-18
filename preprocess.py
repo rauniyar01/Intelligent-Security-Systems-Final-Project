@@ -16,7 +16,7 @@ import ipaddress
 @Attribute: GeoIP: result of GeoIP lookup
 """
 class item:
-    ip              = ipaddress.ipaddress()
+    IP              = ipaddress.ipaddress()
     port            = str()
     httpVersion     = str()
     httpcode        = str()
@@ -26,4 +26,37 @@ class item:
     certificate     = str()
     defaultPage     = str()
     GeoIP           = str()     #Maybe not a str(), we will see later
+
+
+
+def getIP():
+    pass
+
+def getport():
+    pass
+
+def gethttpVersion():
+    pass
+
+def gethttpcode():
+    pass
+
+def getcontentType():
+    pass
+
+def getserverType():
+    pass
+
+def getSSL():
+    pass
+
+def getcertificate():
+    pass
+
+def getdefaultPage():
+    pass
+
+def getGeoIP():
+    pass
+
 
