@@ -1,0 +1,17 @@
+HTTP/1.0 400 Bad Request
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 193
+Expires: Wed, 05 Nov 2014 15:10:38 GMT
+Date: Wed, 05 Nov 2014 15:10:38 GMT
+Connection: close
+
+<HTML><HEAD>
+<TITLE>Invalid URL</TITLE>
+</HEAD><BODY>
+<H1>Invalid URL</H1>
+The requested URL "&#47;", is invalid.<p>
+Reference&#32;&#35;9&#46;a933fea5&#46;1415200238&#46;1525058
+</BODY></HTML>
+ĞØìÄĞÄÔÈÀÀÈÌà˜ŒĞØí™ˆàÉ„Õ”(ğ½	=døğ½!Q50ø(
