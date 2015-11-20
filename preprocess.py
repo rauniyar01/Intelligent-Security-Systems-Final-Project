@@ -58,9 +58,6 @@ def main():
         obj.continent = lookup.continent
         obj.lat = lookup.location[0]
         obj.lon = lookup.location[1]
-
-        print obj.country , "\n", obj.lat , "\n" , obj.lon
-
         
 
 
