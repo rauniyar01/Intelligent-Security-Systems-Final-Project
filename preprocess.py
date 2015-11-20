@@ -7,6 +7,7 @@ from pprint import pprint   #To print things nicely for testing
 from base64 import b64decode #decode base64
 import re                   #parse http headers
 import IntelClass           
+from geoip import geolite2
 
 def main():
     #Create the argument parser and parse the arguments
@@ -50,6 +51,16 @@ def main():
         print("=============")
         #obj_encoded = json.JSONEncoder(obj)
         #print json.loads(obj_encoded)
+
+        #geoip stuff
+        lookup = geolite2.lookup(obj.IP)
+        obj.country = lookup.country
+        obj.continent = lookup.continent
+        obj.lat = lookup.location[0]
+        obj.lon = lookup.location[1]
+
+        print obj.country , "\n", obj.lat , "\n" , obj.lon
+
         
 
 
