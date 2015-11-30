@@ -23,7 +23,10 @@ class item:
     SSL             = False#bool()
     certificate     = str()
     defaultPage     = str()
-    GeoIP           = str()     #Maybe not a str(), we will see later
+    country         = str()
+    continent       = str()
+    lat             = str()
+    lon             = str()
 
     def __str__(self):
         result = ""
