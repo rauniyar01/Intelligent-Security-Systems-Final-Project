@@ -13,29 +13,29 @@
 @Attribute: GeoIP: result of GeoIP lookup
 """
 class item:
-    IP              = str()#ipaddress.ipaddress()
-    port            = str()
+    IP              = ""#ipaddress.ipaddress()
+    port            = ""
     data            = False #True if data is present (response was received)
-    httpVersion     = str()
-    httpcode        = str()
-    contentType     = str()
-    serverType      = str()
+    httpVersion     = ""
+    httpcode        = ""
+    contentType     = ""
+    serverType      = ""
     SSL             = False#bool()
-    certificate     = str()
-    defaultPage     = str()
-    country         = str()
-    continent       = str()
-    lat             = str()
-    lon             = str()
+    certificate     = ""
+    defaultPage     = ""
+    country         = ""
+    continent       = ""
+    lat             = ""
+    lon             = ""
 
     def __str__(self):
         result = ""
         if self.SSL:
-            result = str(self.IP) + "\n" + str(self.port) + "\n" + str(self.certificate) + "\n"
+            result = str(self.IP) + ", " + str(self.port) + ", " + str(self.certificate) + "\n"
         elif self.data:
-            result = str(self.IP) + "\n" + str(self.port) + "\n" + str(self.httpVersion) + "\n" + str(self.httpcode) + "\n" + str(self.serverType) + "\n" + str(self.contentType) + "\n"
+            result = str(self.IP) + ", " + str(self.port) + ", " + str(self.httpVersion) + ", " + str(self.httpcode) + ", " + str(self.serverType) + ", " + str(self.contentType) + "\n"
         else:
-            result = result = str(self.IP) + "\n" + str(self.port) + "\n"
+            result = result = str(self.IP) + ", " + str(self.port) + "\n"
         return result
 
     """
