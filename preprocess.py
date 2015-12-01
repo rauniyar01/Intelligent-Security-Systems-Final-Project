@@ -14,6 +14,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("inFile", help="JSON file convert to output file format.")
     parser.add_argument("outFile", help="File name to save the file to.")
+    parser.add_argument("-nd", "--no-data", help="Include servers with no data", action='store_true')
     args = parser.parse_args()
 
     #open the file and import the first JSON object
@@ -22,11 +23,14 @@ def main():
         data = json.loads(line)
         #The data object now holds all of the stuff, and we can access it like
         #this: data['host'] would yield the IP address
-        obj = IntelClass.item()
-        obj.IP = data['host']
-        obj.port = data['port']
 
         if data['data'] != "":
+            if args.nd != True:
+                continue
+            #Create the object and put stuff in it
+            obj = IntelClass.item()
+            obj.IP = data['host']
+            obj.port = data['port']
             obj.data = True
             header = b64decode(data['data'])
             if re.match("-----BEGIN CERTIFICATE-----", header):
