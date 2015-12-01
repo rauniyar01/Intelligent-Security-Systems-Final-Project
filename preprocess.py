@@ -19,14 +19,15 @@ def main():
 
     #open the file and import the first JSON object
     inFile = open(args.inFile, 'r') 
+    outFile = open(args.outFile, 'w')
     for line in inFile:
         data = json.loads(line)
         #The data object now holds all of the stuff, and we can access it like
         #this: data['host'] would yield the IP address
 
         if data['data'] != "":
-            if args.nd != True:
-                continue
+            #if args.nd != True:
+            #    continue
             #Create the object and put stuff in it
             obj = IntelClass.item()
             obj.IP = data['host']
@@ -35,35 +36,35 @@ def main():
             header = b64decode(data['data'])
             if re.match("-----BEGIN CERTIFICATE-----", header):
                 obj.SSL = True
-                obj.certificate = header
+                obj.certificate = header.replace("\n","")
             else:
                 header = header.split("\n")
                 for field in header:
                     if re.match( "HTTP", field):
                         http = field.split(" ")
                         obj.httpVersion = http[0]
-                        obj.httpcode = http[1]
+                        obj.httpcode = http[1].strip("\r ")
                     elif re.match("Server", field):
                         server = field.split(":")   
-                        obj.serverType = server[1]
+                        obj.serverType = server[1].strip("\r ")
                     elif re.match("Content-Type", field):
                         content = field.split(":")
-                        obj.contentType = content[1]
+                        obj.contentType = content[1].strip("\r ")
                     elif re.match("<HTML>", field):
                         break
-        print(obj) 
-        print("=============")
-        #obj_encoded = json.JSONEncoder(obj)
-        #print json.loads(obj_encoded)
+            #print(obj)
+            outFile.write(str(obj))
+            #obj_encoded = json.JSONEncoder(obj)
+            #print json.loads(obj_encoded)
 
-        #geoip stuff
-        lookup = geolite2.lookup(obj.IP)
-        obj.country = lookup.country
-        obj.continent = lookup.continent
-        obj.lat = lookup.location[0]
-        obj.lon = lookup.location[1]
-        
-
+            #geoip stuff
+            lookup = geolite2.lookup(obj.IP)
+            obj.country = lookup.country
+            obj.continent = lookup.continent
+            obj.lat = lookup.location[0]
+            obj.lon = lookup.location[1]
+    outFile.close()
+    inFile.close()
 
 if __name__ == "__main__":
     sys.exit(main())
