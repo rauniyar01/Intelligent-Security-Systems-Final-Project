@@ -52,17 +52,19 @@ def main():
                         obj.contentType = content[1].strip("\r ")
                     elif re.match("<HTML>", field):
                         break
+
+            if not obj.IP:
+                lookup = geolite2.lookup(obj.IP)
+                obj.country = lookup.country
+                obj.continent = lookup.continent
+                obj.lat = lookup.location[0]
+                obj.lon = lookup.location[1]
             #print(obj)
             outFile.write(str(obj))
             #obj_encoded = json.JSONEncoder(obj)
             #print json.loads(obj_encoded)
 
             #geoip stuff
-            lookup = geolite2.lookup(obj.IP)
-            obj.country = lookup.country
-            obj.continent = lookup.continent
-            obj.lat = lookup.location[0]
-            obj.lon = lookup.location[1]
     outFile.close()
     inFile.close()
 
