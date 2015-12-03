@@ -63,9 +63,9 @@ def main():
             #print(obj)
             outFile.write(str(obj))
 
-        else:
-                print("No DATA: ", i, "data=",data['data'])
-                i = i+1
+        #else:
+        #        print("No DATA: ", i, "data=",data['data'])
+        #        i = i+1
         #geoip stuff
     outFile.close()
     inFile.close()
