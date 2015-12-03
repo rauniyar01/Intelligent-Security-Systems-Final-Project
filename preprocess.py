@@ -20,13 +20,13 @@ def main():
     #open the file and import the first JSON object
     inFile = open(args.inFile, 'r') 
     outFile = open(args.outFile, 'w')
+    i = 1
     for line in inFile:
         data = json.loads(line)
         #The data object now holds all of the stuff, and we can access it like
         #this: data['host'] would yield the IP address
-
         if data['data'] != "":
-            #if args.nd != True:
+            #if args.nd != True: # I think it has to be args.-nd but I just commented it out for now
             #    continue
             #Create the object and put stuff in it
             obj = IntelClass.item()
@@ -46,7 +46,8 @@ def main():
                         obj.httpcode = http[1].strip("\r ")
                     elif re.match("Server", field):
                         server = field.split(":")   
-                        obj.serverType = server[1].strip("\r ")
+                        if len(server) == 2:
+                            obj.serverType = server[1].strip("\r ")
                     elif re.match("Content-Type", field):
                         content = field.split(":")
                         obj.contentType = content[1].strip("\r ")
@@ -61,10 +62,11 @@ def main():
                 obj.lon = lookup.location[1]
             #print(obj)
             outFile.write(str(obj))
-            #obj_encoded = json.JSONEncoder(obj)
-            #print json.loads(obj_encoded)
 
-            #geoip stuff
+        else:
+                print("No DATA: ", i, "data=",data['data'])
+                i = i+1
+        #geoip stuff
     outFile.close()
     inFile.close()
 
