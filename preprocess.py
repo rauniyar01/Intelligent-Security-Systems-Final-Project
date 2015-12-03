@@ -42,19 +42,21 @@ def main():
                 for field in header:
                     if re.match( "HTTP", field):
                         http = field.split(" ")
-                        obj.httpVersion = http[0]
-                        obj.httpcode = http[1].strip("\r ")
+                        if len(http) == 2:
+                            obj.httpVersion = http[0]
+                            obj.httpcode = http[1].strip("\r ")
                     elif re.match("Server", field):
                         server = field.split(":")   
                         if len(server) == 2:
                             obj.serverType = server[1].strip("\r ")
                     elif re.match("Content-Type", field):
                         content = field.split(":")
-                        obj.contentType = content[1].strip("\r ")
+                        if len(content) == 2:
+                            obj.contentType = content[1].strip("\r ")
                     elif re.match("<HTML>", field):
                         break
 
-            if not obj.IP:
+            if obj.IP:
                 lookup = geolite2.lookup(obj.IP)
                 obj.country = lookup.country
                 obj.continent = lookup.continent
