@@ -57,11 +57,15 @@ def main():
                         break
 
             if obj.IP:
-                lookup = geolite2.lookup(obj.IP)
-                obj.country = lookup.country
-                obj.continent = lookup.continent
-                obj.lat = lookup.location[0]
-                obj.lon = lookup.location[1]
+                try:
+                    lookup = geolite2.lookup(obj.IP)
+                    obj.country = lookup.country
+                    obj.continent = lookup.continent
+                    obj.lat = lookup.location[0]
+                    obj.lon = lookup.location[1]
+                except:
+                    pass
+
             #print(obj)
             outFile.write(str(obj))
 
