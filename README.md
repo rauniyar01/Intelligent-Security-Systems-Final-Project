@@ -4,15 +4,23 @@
 Read dataset
 Generate Model
 
-clustering on server version and GeoIP
-
 #Preprocessing
-The preprocessing script is "preprocess.py".  This script takes the JSON object as input, extracts useful information from it, and then writes it to a CSV file format.
+The preprocessing script is preprocess.py.  This script takes the JSON object as input, extracts useful information from it, and then writes it to a CSV file format.  The script has the following usage:
 
+```
+python preprocess.py <JSON input file> <CSV output file>
+```
 
-read in files
-ignore ones with no data
-    or keep them if we have the memory to work with
-store entries as dictionaries with only popular fields in a list
-run kmeans
-profit?
+#Clustering
+The clustering script is kmeans.py. This script has the following usage:
+
+```
+python kmeans.py <number of clusters> <CSV input file>
+```
+
+#Map Plotting
+The map plotting script is plot-map.py.  This script will plot the location of servers on a map according to their latitude and longitude.  The program has the following usage:
+
+```
+python plot-map.py <CSV input file>
+```
