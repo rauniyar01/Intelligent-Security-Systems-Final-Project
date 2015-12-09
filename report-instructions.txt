@@ -1,0 +1,10 @@
+README
+code
+summary of errors and results
+links
+normalization convert strings numerical
+algorithm choice?
+
+diff dataset?
+
+put all of the report stuff in the README.md
