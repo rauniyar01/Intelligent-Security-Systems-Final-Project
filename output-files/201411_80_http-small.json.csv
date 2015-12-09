@@ -1,187 +1,187 @@
-23.200.24.250,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.66.57.138,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.49.58.88,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.204.93.33,80,HTTP/1.0,400,AkamaiGHost,text/html
-107.190.160.222,80,HTTP/1.1,403,Apache/2.2.15 (CentOS),text/html; charset=UTF-8
-208.79.237.141,80,HTTP/1.1,200,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,text/html
-172.233.87.26,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.2.145.81,80,HTTP/1.0,400,AkamaiGHost,text/html
-209.200.114.151,80,HTTP/1.1,400,,text/html
-23.0.207.222,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.11.182.213,80,HTTP/1.0,400,AkamaiGHost,text/html
-97.74.200.197,80,HTTP/1.1,404,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-74.208.162.112,80,HTTP/1.1,404,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-96.6.105.145,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.13.137.100,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.0.155.149,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.39.180.234,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.197.170.76,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.22.90.17,80,HTTP/1.1,500,Apache/2.2.22 (Ubuntu),text/html; charset=utf-8
-70.90.212.213,80,HTTP/1.0,200,SonicWALL,
-23.43.224.42,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.209.109.60,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.249.219.64,80,HTTP/1.1,200,Apache/2.2.15 (CentOS),text/html; charset=UTF-8
-64.147.225.227,80,HTTP/1.1,200,NET-DK/1.0,text/html
-172.233.14.109,80,HTTP/1.0,400,AkamaiGHost,text/html
-67.63.209.142,80,HTTP/1.1,401,cisco-IOS,
-107.160.27.50,80,HTTP/1.1,400,,text/html
-107.149.140.70,80,HTTP/1.1,400,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-23.40.203.40,80,HTTP/1.0,400,AkamaiGHost,text/html
-24.73.152.235,80,HTTP/1.1,401,Gateway Controller 3500,text/html; charset=%s
-96.16.23.218,80,HTTP/1.0,400,AkamaiGHost,text/html
-187.153.136.238,80,HTTP/1.0,401,,
-23.10.157.206,80,HTTP/1.0,400,AkamaiGHost,text/html
-70.63.117.198,80,HTTP/1.1,302,Boa/0.94.14rc21,text/html; charset=ISO-8859-1
-69.12.83.212,80,HTTP/1.0,400,squid/3.1.10,text/html
-23.77.168.186,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.45.33.229,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.3.192.12,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.65.240.22,80,HTTP/1.0,400,AkamaiGHost,text/html
-184.87.75.81,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.72.219.142,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.72.203.139,80,HTTP/1.0,400,AkamaiGHost,text/html
-69.55.21.175,80,HTTP/1.1,401,micro_httpd,text/html
-207.241.32.113,80,HTTP/1.1,302,GoAhead-Webs,text/html
-207.136.244.82,80,HTTP/1.1,401,micro_httpd,text/html
-190.143.136.44,80,HTTP/1.1,302,Apache,text/html; charset=iso-8859-1
-69.59.157.252,80,HTTP/1.1,200,Apache,text/html
-137.135.113.16,80,HTTP/1.1,404,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-208.71.18.176,80,HTTP/1.1,400,,text/html
-199.115.114.98,80,,,,
-23.56.183.42,80,HTTP/1.0,400,AkamaiGHost,text/html
-24.39.154.170,80,HTTP/1.0,200,SonicWALL,
-64.187.113.52,80,HTTP/1.1,200,Apache/2.2.15 (CentOS),text/html; charset=UTF-8
-99.37.143.49,80,HTTP/1.1,302,,text/html; charset=utf-8
-23.193.143.70,80,HTTP/1.0,400,AkamaiGHost,text/html
-184.85.71.124,80,HTTP/1.0,400,AkamaiGHost,text/html
-72.164.252.41,80,HTTP/1.0,400,AkamaiGHost,text/html
-50.63.182.124,80,HTTP/1.1,404,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-172.232.176.245,80,HTTP/1.0,400,AkamaiGHost,text/html
-216.93.217.219,80,HTTP/1.0,401,iGuard Embedded Web Server/3.6.8583S (LM520) SN,
-23.78.169.130,80,HTTP/1.0,400,AkamaiGHost,text/html
-162.223.6.20,80,HTTP/1.1,301,Apache/2.2.15 (CentOS),text/html; charset=iso-8859-1
-204.234.247.83,80,HTTP/1.1,200,,text/html
-23.0.234.31,80,HTTP/1.0,400,AkamaiGHost,text/html
-184.26.107.114,80,HTTP/1.0,400,AkamaiGHost,text/html
-2.22.105.252,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.205.69.150,80,HTTP/1.0,400,AkamaiGHost,text/html
-184.84.0.62,80,HTTP/1.0,400,AkamaiGHost,text/html
-72.167.56.233,80,HTTP/1.1,200,Apache,text/html
-23.193.180.164,80,HTTP/1.0,400,AkamaiGHost,text/html
-142.36.165.86,80,HTTP/1.1,404,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-189.131.43.146,80,HTTP/1.0,401,,
-181.139.241.90,80,HTTP/1.0,401,,
-54.229.16.31,80,HTTP/1.1,301,Apache,text/html; charset=UTF-8
-186.112.110.240,80,HTTP/1.1,200,mini_httpd/1.19 19dec2003,text/html; charset=utf-8
-38.88.10.114,80,HTTP/1.0,200,SonicWALL,
-2.22.209.253,80,HTTP/1.0,400,AkamaiGHost,text/html
-107.183.199.245,80,HTTP/1.1,200,Microsoft-IIS/6.0,
-104.64.36.199,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.50.147.143,80,HTTP/1.0,400,AkamaiGHost,text/html
-71.177.141.242,80,HTTP/1.1,200,Apache/2.2.3 (CentOS),text/html; charset=UTF-8
-23.198.80.51,80,HTTP/1.0,400,AkamaiGHost,text/html
-95.101.223.110,80,HTTP/1.0,400,AkamaiGHost,text/html
-216.82.221.96,80,HTTP/1.0,200,SonicWALL,
-189.178.27.129,80,HTTP/1.0,401,,
-23.96.37.96,80,HTTP/1.1,404,Microsoft-IIS/8.0,text/html
-68.180.108.232,80,HTTP/1.1,401,micro_httpd,text/html
-23.73.57.235,80,HTTP/1.0,400,AkamaiGHost,text/html
-187.174.143.33,80,HTTP/1.1,401,cisco-IOS,
-23.204.165.142,80,HTTP/1.0,400,AkamaiGHost,text/html
-152.7.136.160,80,HTTP/1.0,200,,
-187.172.35.245,80,HTTP/1.0,401,,
-5.79.9.250,80,HTTP/1.1,404,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii
-64.33.148.69,80,HTTP/1.0,200,SonicWALL,
-184.27.98.67,80,HTTP/1.0,400,AkamaiGHost,text/html
-190.250.11.92,80,HTTP/1.0,401,,
-50.166.195.29,80,HTTP/1.1,200,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1
-187.158.0.226,80,HTTP/1.0,401,,
-65.61.23.186,80,HTTP/1.1,404,Microsoft-IIS/5.0,text/html
-185.14.29.202,80,HTTP/1.1,503,Apache/2.2.15 (CentOS),text/html; charset=UTF-8
-23.206.140.154,80,HTTP/1.0,400,AkamaiGHost,text/html
-92.123.11.21,80,HTTP/1.0,400,AkamaiGHost,text/html
-191.98.91.91,80,HTTP/1.1,200,micro_httpd,text/html
-137.224.11.44,80,HTTP/1.1,400,,text/html
-5.78.86.113,80,HTTP/1.1,404,Apache,text/html; charset=UTF-8
-8.247.33.123,80,HTTP/1.1,404,Footprint 4.10/FPMCP,text/html
-5.135.204.97,80,HTTP/1.1,200,Apache,text/html; charset=UTF-8
-23.63.224.78,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.88.175.242,80,HTTP/1.1,200,Microsoft-IIS/6.0,
-96.7.76.239,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.208.166.55,80,HTTP/1.0,400,AkamaiGHost,text/html
-172.233.44.192,80,HTTP/1.0,400,AkamaiGHost,text/html
-91.183.129.230,80,HTTP/1.0,301,,
-23.61.209.235,80,HTTP/1.0,400,AkamaiGHost,text/html
-172.230.139.75,80,HTTP/1.0,400,AkamaiGHost,text/html
-216.52.115.80,80,HTTP/1.1,302,,
-216.212.85.253,80,HTTP/1.1,401,micro_httpd,text/html
-71.85.78.166,80,HTTP/1.0,200,SonicWALL,
-216.118.88.105,80,HTTP/1.1,200,LiteSpeed,text/html
-62.72.74.162,80,HTTP/1.0,301,,
-184.29.175.151,80,HTTP/1.0,400,AkamaiGHost,text/html
-41.208.71.9,80,HTTP/1.1,200,Cougar/9.6.7600.16564,video/x-ms-asf
-128.165.120.125,80,HTTP/1.0,302,,
-190.35.181.244,80,HTTP/1.1,200,thttpd/2.25b 29dec2003,text/html; charset=UTF-8
-23.75.224.152,80,HTTP/1.0,400,AkamaiGHost,text/html
-90.184.237.113,80,HTTP/1.1,200,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1
-23.75.67.197,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.14.134.20,80,HTTP/1.0,400,AkamaiGHost,text/html
-184.28.1.137,80,HTTP/1.0,400,AkamaiGHost,text/html
-68.207.20.169,80,HTTP/1.1,200,,
-96.8.176.161,80,HTTP/1.1,401,cisco-IOS,
-185.36.101.189,80,HTTP/1.1,404,nginx,text/html
-85.13.150.84,80,HTTP/1.1,503,Apache,text/html; charset=iso-8859-1
-186.195.134.129,80,HTTP/1.1,200,Apache/2.2.15,text/html; charset=ISO-8859-1
-2.20.145.187,80,HTTP/1.0,400,AkamaiGHost,text/html
-199.87.112.7,80,HTTP/1.1,403,nginx/1.6.0,text/html
-169.230.26.152,80,HTTP/1.1,200,Apache/2.2.3 (CentOS),text/html; charset=UTF-8
-82.150.199.108,80,HTTP/1.1,301,,text/html
-2.20.135.48,80,HTTP/1.0,400,AkamaiGHost,text/html
-108.185.99.252,80,HTTP/1.0,401,httpd,text/html
-75.191.66.30,80,HTTP/1.1,200,,
-77.44.55.22,80,HTTP/1.0,401,,
-85.187.216.180,80,HTTP/1.1,200,nginx/1.7.3,text/html
-23.65.7.225,80,HTTP/1.0,400,AkamaiGHost,text/html
-90.184.98.248,80,HTTP/1.1,200,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1
-98.190.82.228,80,HTTP/1.1,200,,
-108.163.207.219,80,HTTP/1.1,200,Apache,text/html
-187.205.246.220,80,HTTP/1.0,401,,
-46.237.82.200,80,HTTP/1.1,401,Router,text/html
-95.101.249.228,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.45.169.60,80,HTTP/1.0,400,AkamaiGHost,text/html
-130.55.54.90,80,HTTP/1.0,302,,
-23.225.220.52,80,HTTP/1.1,400,,text/html
-2.19.152.172,80,HTTP/1.0,400,AkamaiGHost,text/html
-69.206.29.255,80,HTTP/1.1,200,,
-74.240.163.173,80,HTTP/1.1,200,Boa/0.94.13,text/html
-151.5.152.170,80,HTTP/1.1,301,Httpd,
-168.168.32.22,80,HTTP/1.1,302,,
-174.54.130.174,80,HTTP/1.0,302,GoAhead-Webs,text/html
-95.101.93.95,80,HTTP/1.0,400,AkamaiGHost,text/html
-173.92.145.186,80,HTTP/1.1,200,,
-70.116.72.104,80,HTTP/1.0,302,GoAhead-Webs,text/html
-208.65.130.61,80,HTTP/1.1,400,,text/html
-74.204.168.251,80,HTTP/1.1,200,Apache,text/html
-23.15.48.213,80,HTTP/1.0,400,AkamaiGHost,text/html
-209.242.203.112,80,HTTP/1.1,400,squid/3.3.5,text/html
-90.184.226.179,80,HTTP/1.1,200,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1
-23.33.2.64,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.39.153.53,80,HTTP/1.0,400,AkamaiGHost,text/html
-31.135.87.225,80,HTTP/1.1,302,,
-27.126.188.52,80,HTTP/1.1,200,Microsoft-IIS/6.0,text/html
-23.37.236.83,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.32.176.174,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.213.139.99,80,HTTP/1.0,400,AkamaiGHost,text/html
-74.126.74.217,80,HTTP/1.1,401,micro_httpd,text/html
-209.234.222.200,80,HTTP/1.1,401,micro_httpd,text/html
-62.117.179.157,80,HTTP/1.1,401,mini_httpd/1.19 19dec2003,text/html; charset=%s
-23.76.104.140,80,HTTP/1.0,400,AkamaiGHost,text/html
-213.149.150.69,80,HTTP/1.1,403,Apache/2.2.15 (CentOS),text/html
-177.36.199.195,80,HTTP/1.1,401,Boa/0.94.14rc21,text/html; charset=ISO-8859-1
-118.214.65.214,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.109.154.202,80,HTTP/1.1,500,nginx,text/html
-5.78.247.211,80,HTTP/1.1,404,Apache,text/html; charset=UTF-8
-2.17.53.159,80,HTTP/1.0,400,AkamaiGHost,text/html
-23.40.22.131,80,HTTP/1.0,400,AkamaiGHost,text/html
-172.224.107.240,80,HTTP/1.0,400,AkamaiGHost,text/html
-174.108.246.167,80,HTTP/1.1,200,,
+23.200.24.250,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.66.57.138,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.49.58.88,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.204.93.33,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+107.190.160.222,80,,,Apache/2.2.15 (CentOS),text/html; charset=UTF-8,NA,US,43.1616,-77.6068
+208.79.237.141,80,,,Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/0.9.8e-fips-rhel5 mod_bwlimited/1.4,text/html,NA,US,41.8745,-87.6503
+172.233.87.26,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.2.145.81,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+209.200.114.151,80,,,,text/html,NA,US,33.7248,-112.0889
+23.0.207.222,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.11.182.213,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+97.74.200.197,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,NA,US,33.6119,-111.8906
+74.208.162.112,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,NA,US,40.0548,-75.4083
+96.6.105.145,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.13.137.100,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.0.155.149,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.39.180.234,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.197.170.76,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.22.90.17,80,,,Apache/2.2.22 (Ubuntu),text/html; charset=utf-8,NA,US,39.0437,-77.4875
+70.90.212.213,80,,,SonicWALL,,NA,US,40.5622,-111.9297
+23.43.224.42,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.209.109.60,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.249.219.64,80,,,Apache/2.2.15 (CentOS),text/html; charset=UTF-8,NA,US,36.1113,-115.2791
+64.147.225.227,80,,,NET-DK/1.0,text/html,NA,US,38.1142,-82.6032
+172.233.14.109,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+67.63.209.142,80,,,cisco-IOS,,NA,US,30.5021,-90.7479
+107.160.27.50,80,,,,text/html,NA,US,34.0115,-117.8535
+107.149.140.70,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,NA,US,37.3338,-121.8915
+23.40.203.40,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+24.73.152.235,80,,,Gateway Controller 3500,text/html; charset=%s,NA,US,28.5383,-81.3792
+96.16.23.218,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+187.153.136.238,80,,,,,NA,MX,20.6167,-87.0667
+23.10.157.206,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+70.63.117.198,80,,,Boa/0.94.14rc21,text/html; charset=ISO-8859-1,NA,US,36.1199,-80.0737
+69.12.83.212,80,,,squid/3.1.10,text/html,NA,US,34.0438,-118.2512
+23.77.168.186,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.45.33.229,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.3.192.12,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.65.240.22,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+184.87.75.81,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.72.219.142,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.72.203.139,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+69.55.21.175,80,,,micro_httpd,text/html,NA,US,36.0595,-102.5132
+207.241.32.113,80,,,GoAhead-Webs,text/html,NA,US,41.8745,-87.6503
+207.136.244.82,80,,,micro_httpd,text/html,NA,US,44.3806,-73.2276
+190.143.136.44,80,,,Apache,text/html; charset=iso-8859-1,NA,GT,15.5,-90.25
+69.59.157.252,80,,,Apache,text/html,NA,US,37.7898,-122.3942
+137.135.113.16,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,NA,US,38.0,-97.0
+208.71.18.176,80,,,,text/html,NA,US,41.129,-74.7282
+199.115.114.98,80,,,,,NA,US,38.7932,-77.5366
+23.56.183.42,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+24.39.154.170,80,,,SonicWALL,,NA,US,41.9268,-73.9126
+64.187.113.52,80,,,Apache/2.2.15 (CentOS),text/html; charset=UTF-8,NA,US,26.1882,-80.1711
+99.37.143.49,80,,,,text/html; charset=utf-8,NA,US,38.0,-97.0
+23.193.143.70,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+184.85.71.124,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+72.164.252.41,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+50.63.182.124,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,NA,US,33.6119,-111.8906
+172.232.176.245,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+216.93.217.219,80,,,,,NA,US,38.6679,-121.4032
+23.78.169.130,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+162.223.6.20,80,,,Apache/2.2.15 (CentOS),text/html; charset=iso-8859-1,NA,CA,43.6425,-79.3872
+204.234.247.83,80,,,,text/html,NA,US,40.8,-96.667
+23.0.234.31,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+184.26.107.114,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+2.22.105.252,80,,,AkamaiGHost,text/html,EU,GB,51.5,-0.13
+23.205.69.150,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+184.84.0.62,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+72.167.56.233,80,,,Apache,text/html,NA,US,33.6119,-111.8906
+23.193.180.164,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+142.36.165.86,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,NA,CA,48.4488,-123.3501
+189.131.43.146,80,,,,,NA,MX,19.43,-99.13
+181.139.241.90,80,,,,,SA,CO,6.2518,-75.5636
+54.229.16.31,80,,,Apache,text/html; charset=UTF-8,EU,IE,53.3331,-6.2489
+186.112.110.240,80,,,mini_httpd/1.19 19dec2003,text/html; charset=utf-8,SA,CO,4.6492,-74.0628
+38.88.10.114,80,,,SonicWALL,,NA,US,33.749,-84.388
+2.22.209.253,80,,,AkamaiGHost,text/html,EU,FR,48.86,2.35
+107.183.199.245,80,,,Microsoft-IIS/6.0,,NA,US,34.053,-118.2642
+104.64.36.199,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.50.147.143,80,,,AkamaiGHost,text/html,EU,NL,52.374,4.8897
+71.177.141.242,80,,,Apache/2.2.3 (CentOS),text/html; charset=UTF-8,NA,US,33.8492,-118.3884
+23.198.80.51,80,,,AkamaiGHost,text/html,EU,NL,52.374,4.8897
+95.101.223.110,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+216.82.221.96,80,,,SonicWALL,,NA,US,38.0,-97.0
+189.178.27.129,80,,,,,NA,MX,19.4342,-99.1386
+23.96.37.96,80,,,Microsoft-IIS/8.0,text/html,NA,US,47.674,-122.1215
+68.180.108.232,80,,,micro_httpd,text/html,NA,US,40.8929,-73.9726
+23.73.57.235,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+187.174.143.33,80,,,cisco-IOS,,NA,MX,19.43,-99.13
+23.204.165.142,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+152.7.136.160,80,,,,,NA,US,35.7463,-78.7239
+187.172.35.245,80,,,,,NA,MX,19.43,-99.13
+5.79.9.250,80,,,Microsoft-HTTPAPI/2.0,text/html; charset=us-ascii,EU,GB,51.5,-0.13
+64.33.148.69,80,,,SonicWALL,,NA,US,44.8113,-91.4985
+184.27.98.67,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+190.250.11.92,80,,,,,SA,CO,6.2518,-75.5636
+50.166.195.29,80,,,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1,NA,US,40.0712,-74.8649
+187.158.0.226,80,,,,,NA,MX,19.43,-99.13
+65.61.23.186,80,,,Microsoft-IIS/5.0,text/html,NA,US,40.2762,-76.7889
+185.14.29.202,80,,,Apache/2.2.15 (CentOS),text/html; charset=UTF-8,EU,NL,52.3667,4.9
+23.206.140.154,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+92.123.11.21,80,,,AkamaiGHost,text/html,EU,FR,48.86,2.35
+191.98.91.91,80,,,micro_httpd,text/html,SA,CO,4.8133,-75.6961
+137.224.11.44,80,,,,text/html,EU,NL,51.97,5.6667
+5.78.86.113,80,,,Apache,text/html; charset=UTF-8,AS,IR,32.7026,51.1537
+8.247.33.123,80,,,Footprint 4.10/FPMCP,text/html,NA,US,38.0,-97.0
+5.135.204.97,80,,,Apache,text/html; charset=UTF-8,EU,FR,48.86,2.35
+23.63.224.78,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.88.175.242,80,,,Microsoft-IIS/6.0,,NA,US,34.053,-118.2642
+96.7.76.239,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.208.166.55,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+172.233.44.192,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+91.183.129.230,80,,,,,EU,BE,50.85,4.35
+23.61.209.235,80,,,AkamaiGHost,text/html,EU,NL,52.374,4.8897
+172.230.139.75,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+216.52.115.80,80,,,,,NA,US,38.0,-97.0
+216.212.85.253,80,,,micro_httpd,text/html,NA,US,38.0,-97.0
+71.85.78.166,80,,,SonicWALL,,NA,US,38.0,-97.0
+216.118.88.105,80,,,LiteSpeed,text/html,NA,US,40.822,-74.4488
+62.72.74.162,80,,,,,EU,DE,51.4536,7.0102
+184.29.175.151,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+41.208.71.9,80,,,Cougar/9.6.7600.16564,video/x-ms-asf,AF,LY,25.0,17.0
+128.165.120.125,80,,,,,NA,US,35.8881,-106.307
+190.35.181.244,80,,,thttpd/2.25b 29dec2003,text/html; charset=UTF-8,NA,PA,9.0,-80.0
+23.75.224.152,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+90.184.237.113,80,,,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1,EU,DK,55.6415,12.0803
+23.75.67.197,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.14.134.20,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+184.28.1.137,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+68.207.20.169,80,,,,,NA,US,38.0,-97.0
+96.8.176.161,80,,,cisco-IOS,,NA,US,29.7649,-98.1834
+185.36.101.189,80,,,nginx,text/html,EU,NL,52.3808,4.6368
+85.13.150.84,80,,,Apache,text/html; charset=iso-8859-1,EU,DE,51.0,9.0
+186.195.134.129,80,,,Apache/2.2.15,text/html; charset=ISO-8859-1,SA,BR,-23.5477,-46.6358
+2.20.145.187,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+199.87.112.7,80,,,nginx/1.6.0,text/html,NA,US,37.4192,-122.0574
+169.230.26.152,80,,,Apache/2.2.3 (CentOS),text/html; charset=UTF-8,NA,US,37.7631,-122.4586
+82.150.199.108,80,,,,text/html,EU,AT,48.2,16.3667
+2.20.135.48,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+108.185.99.252,80,,,httpd,text/html,NA,US,34.13,-118.3386
+75.191.66.30,80,,,,,NA,US,38.0,-97.0
+77.44.55.22,80,,,,,EU,GB,51.5,-0.13
+85.187.216.180,80,,,nginx/1.7.3,text/html,EU,BG,42.6833,23.3167
+23.65.7.225,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+90.184.98.248,80,,,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1,EU,DK,55.7316,12.3633
+98.190.82.228,80,,,,,NA,US,38.0,-97.0
+108.163.207.219,80,,,Apache,text/html,NA,US,41.8876,-87.6368
+187.205.246.220,80,,,,,NA,MX,21.1305,-101.671
+46.237.82.200,80,,,Router,text/html,EU,BG,42.2,24.3333
+95.101.249.228,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+23.45.169.60,80,,,AkamaiGHost,text/html,EU,NL,52.374,4.8897
+130.55.54.90,80,,,,,NA,US,35.8881,-106.307
+23.225.220.52,80,,,,text/html,NA,US,41.3274,-104.6664
+2.19.152.172,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+69.206.29.255,80,,,,,NA,US,38.0,-97.0
+74.240.163.173,80,,,Boa/0.94.13,text/html,NA,US,29.8028,-90.7974
+151.5.152.170,80,,,Httpd,,EU,IT,45.4667,9.2
+168.168.32.22,80,,,,,NA,US,38.2517,-85.7544
+174.54.130.174,80,,,GoAhead-Webs,text/html,NA,US,41.4066,-75.6218
+95.101.93.95,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+173.92.145.186,80,,,,,NA,US,38.0,-97.0
+70.116.72.104,80,,,GoAhead-Webs,text/html,NA,US,30.3796,-97.6757
+208.65.130.61,80,,,,text/html,NA,US,32.7587,-97.3321
+74.204.168.251,80,,,Apache,text/html,NA,US,38.9881,-77.4755
+23.15.48.213,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+209.242.203.112,80,,,squid/3.3.5,text/html,NA,US,41.9968,-87.7562
+90.184.226.179,80,,,mini_httpd/1.19 19dec2003,text/html; charset=iso-8859-1,EU,DK,55.4318,11.5555
+23.33.2.64,80,,,AkamaiGHost,text/html,EU,NL,52.374,4.8897
+23.39.153.53,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+31.135.87.225,80,,,,,EU,RU,55.7522,37.6156
+27.126.188.52,80,,,Microsoft-IIS/6.0,text/html,AS,HK,22.2833,114.15
+23.37.236.83,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.32.176.174,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+23.213.139.99,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+74.126.74.217,80,,,micro_httpd,text/html,NA,US,39.3331,-82.9824
+209.234.222.200,80,,,micro_httpd,text/html,NA,US,37.0038,-119.1516
+62.117.179.157,80,,,mini_httpd/1.19 19dec2003,text/html; charset=%s,EU,ES,36.4656,-6.1983
+23.76.104.140,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+213.149.150.69,80,,,Apache/2.2.15 (CentOS),text/html,EU,BG,41.4,23.2167
+177.36.199.195,80,,,Boa/0.94.14rc21,text/html; charset=ISO-8859-1,SA,BR,-23.5477,-46.6358
+118.214.65.214,80,,,AkamaiGHost,text/html,AS,SG,1.3667,103.8
+23.109.154.202,80,,,nginx,text/html,NA,US,33.6748,-111.9519
+5.78.247.211,80,,,Apache,text/html; charset=UTF-8,AS,IR,32.7026,51.1537
+2.17.53.159,80,,,AkamaiGHost,text/html,EU,None,47.0,8.0
+23.40.22.131,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+172.224.107.240,80,,,AkamaiGHost,text/html,NA,US,42.3626,-71.0843
+174.108.246.167,80,,,,,NA,US,38.0,-97.0

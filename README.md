@@ -37,8 +37,9 @@ python plot-map.py <CSV input file>
 
 ##Problems Encountered
 ###Make Non-numerical data Numerical
+There were many data fields extracted from the http response but most of it was text data. To do the clustering we needed to make the data numerical in order to normalize and graph the clusters.
 ###Normalization of Non-numerical Data Points
-
+There was not a good way to take some fields, such as server type, and convert them to numerical data to normalize and cluster. All the attempts created dnormalized data that was to close and the cluster were not meaningful.
 ##Refernces
 ###Project 25499
 [Project 25499](https://scans.io/study/mi) is a project by Silas Cutler that scans parts of the IPv4 Internet and aggregates data.
