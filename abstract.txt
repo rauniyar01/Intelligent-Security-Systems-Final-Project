@@ -1,0 +1,5 @@
+Jimmy Trimer and Nick Piazza 
+Intro to Intel Systems Security 
+Final Project Abstract
+
+We have around 120GB of data from an internet wide scan looking for webservers running on ports 0, 80, 8080, and 443. The data contains the http responses from all the different servers. Our goal is to extract important features from the response and do clustering on our data. We hope to be able to find patterns based on geolocation of the webserver such as concentration of webservers, type of server such as apache or nginx, port the webserver is running on, and the concentration of ssl being used in certain areas.
