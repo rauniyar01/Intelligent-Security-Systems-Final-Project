@@ -1,8 +1,7 @@
 #Final Project
 
 ##Abstract
-Read dataset
-Generate Model
+We have around 120GB of data from an [Project 25499](https://scans.io/study/mi), an Internet wide scan looking for webservers running on ports 0, 80, 8080, and 443. The data contains the HTTP responses from all the different servers. Our goal is to extract important features from the response and perform clustering on our data. We hope to be able to find patterns based on geolocation of the webserver such as concentration of webservers, type of server such as apache or nginx, port the webserver is running on, and the concentration of SSL being used in certain areas.
 
 ##Dependencies
 These scripts rely on the following python libraries:
