@@ -1,7 +1,7 @@
 #Final Project
 
 ##Abstract
-We have around 120GB of data from an [Project 25499](https://scans.io/study/mi), an Internet wide scan looking for webservers running on ports 0, 80, 8080, and 443. The data contains the HTTP responses from all the different servers. Our goal is to extract important features from the response and perform clustering on our data. We hope to be able to find patterns based on geolocation of the webserver such as concentration of webservers, type of server such as apache or nginx, port the webserver is running on, and the concentration of SSL being used in certain areas.
+We have around 120GB of data from an [Project 25499](https://scans.io/study/mi), an Internet wide scan looking for web servers running on ports 0, 80, 8080, and 443. The data contains the HTTP responses from all the different servers. Our goal is to extract important features from the response and perform clustering on our data. We hope to be able to find patterns based on geolocation of the web server such as concentration of web servers, type of server such as apache or nginx, port the web server is running on, and the concentration of SSL being used in certain areas.
 
 ##Dependencies
 These scripts rely on the following python libraries:
@@ -39,7 +39,7 @@ python plot-map.py <CSV input file>
 There were many data fields extracted from the http response but most of it was text data. To do the clustering we needed to make the data numerical in order to normalize and graph the clusters.
 ###Normalization of Non-numerical Data Points
 There was not a good way to take some fields, such as server type, and convert them to numerical data to normalize and cluster. All the attempts created dnormalized data that was to close and the clusters were not meaningful.
-##Refernces
+##References
 ###Project 25499
 [Project 25499](https://scans.io/study/mi) is a project by Silas Cutler that scans parts of the IPv4 Internet and aggregates data.
 
