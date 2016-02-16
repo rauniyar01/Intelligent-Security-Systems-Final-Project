@@ -1,7 +1,7 @@
 #Final Project
 
 ##Abstract
-We have around 120GB of data from an [Project 25499](https://scans.io/study/mi), an Internet wide scan looking for web servers running on ports 0, 80, 8080, and 443. The data contains the HTTP responses from all the different servers. Our goal is to extract important features from the response and perform clustering on our data. We hope to be able to find patterns based on geolocation of the web server such as concentration of web servers, type of server such as apache or nginx, port the web server is running on, and the concentration of SSL being used in certain areas.
+We have around 120GB of data from [Project 25499](https://scans.io/study/mi), an Internet wide scan looking for web servers running on ports 0, 80, 8080, and 443. The data contains the HTTP responses from all the different servers. Our goal is to extract important features from the response and perform clustering on our data. We hope to be able to find patterns based on geolocation of the web server such as concentration of web servers, type of server such as apache or nginx, port the web server is running on, and the concentration of SSL being used in certain areas.
 
 ##Dependencies
 These scripts rely on the following python libraries:
@@ -44,4 +44,4 @@ There was not a good way to take some fields, such as server type, and convert t
 [Project 25499](https://scans.io/study/mi) is a project by Silas Cutler that scans parts of the IPv4 Internet and aggregates data.
 
 ###Visualization: Mapping Global Earthquake Activity
-[http://introtopython.org/visualization_earthquakes.html](This) page was used to set up and write code for plot-map.py.
+[This](http://introtopython.org/visualization_earthquakes.html) page was used to set up and write code for plot-map.py.
